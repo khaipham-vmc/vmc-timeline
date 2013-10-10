@@ -2,6 +2,7 @@ vmc-timeline
 ============
 
 Steps to build VMC Timeline:
+
 1. Build a new Google Spreadsheet using a template and publish to the public web
 https://docs.google.com/spreadsheet/pub?key=0Ag8Nu3d9BacYdEc0QTJXV2xzNE9vd3JabS1VVG9KU2c&output=html 
 
